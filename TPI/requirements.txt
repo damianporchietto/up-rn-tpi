@@ -1,0 +1,22 @@
+# Core data science libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning libraries
+scikit-learn>=1.0.0
+
+# PyTorch and related libraries
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Optional: Jupyter notebook support (if you want to run notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Audio processing (if you need to work with audio files directly)
+# librosa>=0.9.0
+# soundfile>=0.10.0 
